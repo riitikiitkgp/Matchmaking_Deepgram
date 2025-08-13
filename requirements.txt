@@ -1,0 +1,8 @@
+deepgram-sdk==3.2.3
+fastapi
+pymongo
+pydantic
+numpy
+uvicorn
+faiss-cpu
+python-dotenv
