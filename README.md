@@ -1,5 +1,4 @@
-# Create a README.md with setup and run instructions for the user's project
-readme_content = """# Voice-Based Matchmaking API
+# Voice-Based Matchmaking API
 
 FastAPI service that:
 - Transcribes uploaded audio with Deepgram
